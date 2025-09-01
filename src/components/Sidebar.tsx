@@ -47,13 +47,13 @@ export default function Sidebar({ userName, type }: SidebarComponentProps) {
           <Indicator
             inline
             size={12}
-            offset={7}
+            offset={8}
             position="bottom-end"
             color="red"
             withBorder
           >
             <Avatar
-              size={50}
+              size={40}
               radius="xl"
               src ="./meee.jpg"
             />
