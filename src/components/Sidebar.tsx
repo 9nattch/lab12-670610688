@@ -55,7 +55,7 @@ export default function Sidebar({ userName, type }: SidebarComponentProps) {
             <Avatar
               size={50}
               radius="xl"
-              src="./public/meee.jpg"
+              src ="./meee.jpg"
             />
           </Indicator>
           <Text>
